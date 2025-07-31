@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mailer-automation/static/css/main.c4a8dd5d.css",
-    "main.js": "/mailer-automation/static/js/main.215282aa.js",
+    "main.js": "/mailer-automation/static/js/main.123b2cf2.js",
     "static/js/453.96453769.chunk.js": "/mailer-automation/static/js/453.96453769.chunk.js",
     "index.html": "/mailer-automation/index.html",
     "main.c4a8dd5d.css.map": "/mailer-automation/static/css/main.c4a8dd5d.css.map",
-    "main.215282aa.js.map": "/mailer-automation/static/js/main.215282aa.js.map",
+    "main.123b2cf2.js.map": "/mailer-automation/static/js/main.123b2cf2.js.map",
     "453.96453769.chunk.js.map": "/mailer-automation/static/js/453.96453769.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c4a8dd5d.css",
-    "static/js/main.215282aa.js"
+    "static/js/main.123b2cf2.js"
   ]
 }
