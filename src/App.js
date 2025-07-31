@@ -39,12 +39,12 @@ function DynamicDivs() {
 }
 
 function App() {
-  const defaultImage1 = 'https://picsum.photos/600/400?random=1';
-  const defaultImage2 = 'https://picsum.photos/600/400?random=2';
-  const defaultImage3 = 'https://picsum.photos/600/400?random=3';
-  const defaultImage4 = 'https://picsum.photos/600/400?random=4';
-  const defaultImage5 = 'https://picsum.photos/600/400?random=5';
-  const defaultImage6 = 'https://picsum.photos/600/400?random=6';
+  const defaultImage1 = 'https://www.ieplads.com/mailers/2025_ui/naukri/job-speak-03july/images/banner.png';
+  const defaultImage2 = 'https://www.ieplads.com/mailers/2025_ui/naukri/job-speak-03july/images/img1.png';
+  const defaultImage3 = 'https://www.ieplads.com/mailers/2025_ui/naukri/job-speak-03july/images/img2.png';
+  const defaultImage4 = 'https://www.ieplads.com/mailers/2025_ui/naukri/job-speak-03july/images/img3.png';
+  const defaultImage5 = 'https://www.ieplads.com/mailers/2025_ui/naukri/job-speak-03july/images/img4.png';
+  const defaultImage6 = 'https://www.ieplads.com/mailers/2025_ui/naukri/job-speak-03july/images/img5.png';
   
   const [image1, setImage1] = useState(() => localStorage.getItem('uploadedImage1') || defaultImage1);
   const [image2, setImage2] = useState(() => localStorage.getItem('uploadedImage2') || defaultImage2);
