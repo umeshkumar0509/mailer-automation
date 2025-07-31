@@ -847,7 +847,7 @@ function App() {
 </div>
           
 <div className="secFive">
-<DynamicDivs />
+
 <table width="100%" bgcolor="#f9f2f2">
   <tr>
      <td valign="top" align="center">
@@ -953,8 +953,6 @@ function App() {
         <button onClick={handlePreview} style={{ marginTop: 16, backgroundColor:'#f2a13a', height:'40px', border:'0', padding:'0 10px', cursor:'pointer'  }}>Preview in New Window</button>
         <div style={{height:'50px'}}></div>
 
-        {/* Add/Delete Div Module at the bottom */}
-        <DynamicDivs />
       </header>
     </div>
   );
