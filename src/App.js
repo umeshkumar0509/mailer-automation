@@ -39,12 +39,12 @@ function DynamicDivs() {
 }
 
 function App() {
-  const defaultImage1 = 'https://www.ieplads.com/mailers/2025_ui/tool/img1.png';
-  const defaultImage2 = 'https://www.ieplads.com/mailers/2025_ui/tool/img3.png';
-  const defaultImage3 = 'https://www.ieplads.com/mailers/2025_ui/tool/img3.png';
-  const defaultImage4 = 'https://www.ieplads.com/mailers/2025_ui/tool/img3.png';
-  const defaultImage5 = 'https://www.ieplads.com/mailers/2025_ui/tool/img3.png';
-  const defaultImage6 = 'https://www.ieplads.com/mailers/2025_ui/tool/img3.png';
+  const defaultImage1 = 'https://www.ieplads.com/mailers/2025_ui/naukri/job-speak-03july/images/banner.png';
+  const defaultImage2 = 'https://www.ieplads.com/mailers/2025_ui/naukri/job-speak-04aug/images/img1.png';
+  const defaultImage3 = 'https://www.ieplads.com/mailers/2025_ui/naukri/job-speak-04aug/images/img2.png';
+  const defaultImage4 = 'https://www.ieplads.com/mailers/2025_ui/naukri/job-speak-04aug/images/img3.png';
+  const defaultImage5 = 'https://www.ieplads.com/mailers/2025_ui/naukri/job-speak-04aug/images/img4.png';
+  const defaultImage6 = 'https://www.ieplads.com/mailers/2025_ui/naukri/job-speak-04aug/images/img5.png';
   
   const [image1, setImage1] = useState(defaultImage1);
   const [image2, setImage2] = useState(defaultImage2);
