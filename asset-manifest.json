@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mailer-automation/static/css/main.c4a8dd5d.css",
-    "main.js": "/mailer-automation/static/js/main.123b2cf2.js",
-    "static/js/453.96453769.chunk.js": "/mailer-automation/static/js/453.96453769.chunk.js",
-    "index.html": "/mailer-automation/index.html",
-    "main.c4a8dd5d.css.map": "/mailer-automation/static/css/main.c4a8dd5d.css.map",
-    "main.123b2cf2.js.map": "/mailer-automation/static/js/main.123b2cf2.js.map",
-    "453.96453769.chunk.js.map": "/mailer-automation/static/js/453.96453769.chunk.js.map"
+    "main.css": "/mailer-automation2/static/css/main.19c47c90.css",
+    "main.js": "/mailer-automation2/static/js/main.58f7a0be.js",
+    "static/js/453.96453769.chunk.js": "/mailer-automation2/static/js/453.96453769.chunk.js",
+    "index.html": "/mailer-automation2/index.html",
+    "main.19c47c90.css.map": "/mailer-automation2/static/css/main.19c47c90.css.map",
+    "main.58f7a0be.js.map": "/mailer-automation2/static/js/main.58f7a0be.js.map",
+    "453.96453769.chunk.js.map": "/mailer-automation2/static/js/453.96453769.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4a8dd5d.css",
-    "static/js/main.123b2cf2.js"
+    "static/css/main.19c47c90.css",
+    "static/js/main.58f7a0be.js"
   ]
 }
